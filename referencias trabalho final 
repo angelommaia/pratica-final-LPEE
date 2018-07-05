@@ -1,0 +1,13 @@
+ 
+ 
+----como mesclar as linguagens 
+
+http://www.yolinux.com/TUTORIALS/LinuxTutorialMixingFortranAndC.html --> tabelas de tipo, bloco common e outros rolês
+https://software.intel.com/en-us/forums/intel-visual-fortran-compiler-for-windows/topic/696360 --> Resposta do tio da intell
+https://stackoverflow.com/questions/15964483/fortran-common-variables-allocatable-array?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa --> resposta para a pergunda do maluco. um tapa na nossa cara
+
+
+
+----como plotar o resultado
+
+https://code.google.com/archive/p/gnuplot-cpp/
