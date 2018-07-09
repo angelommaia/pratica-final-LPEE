@@ -1,0 +1,10 @@
+Ordem do Polinomio
+2
+Quantidade de Amostras
+5
+Pontos X e Y
+0 1
+1 2
+2 5
+3 10
+4 17
